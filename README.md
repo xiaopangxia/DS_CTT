@@ -8,7 +8,7 @@
 ### raw_pages来源： <br>
       百度百科随机页面3万条
 ### Bike_triples.txt文件：<br>
-      来自知识工场2015年dump文件，http://openkg.cn/dataset/cndbpedia <br>
+      来自知识工场2015年dump文件，http://openkg.cn/dataset/cndbpedia
       
 ### 代码使用：
 数据准备部分用python2.7写的，序列标注模型python3.5+Tensorflow
